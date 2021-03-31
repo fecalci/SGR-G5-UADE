@@ -185,21 +185,6 @@ Cuando un socio no cubre alguna de las operaciones que presentó, la que paga la
   - Administración y consultas
 * Consultas generales
 
-## Módulos por cantidad de integrantes
-
-Los grupos con 4 integrantes están eximidos de entregar:
-* Desembolsos y recuperos
-* Contragarantías
-* Consultas de saldo Mora
-
-Los grupos con 5 integrantes están eximidos de entregar:
-* Recuperos
-* Contragarantías
-
-Los grupos con 6 integrantes están eximidos de entregar:
-* Recuperos
-
-La no entrega de un módulo exime, también, la entrega la parte del modelo y diagrama de secuencia asociado.
 
 ## Documentación y fases de entrega
 
@@ -208,19 +193,6 @@ Se pide documentar el diseño del sistema e implementar en base a las siguientes
 * **Segunda Fase:** Diagrama de secuencias de todas las reglas de negocios y consultas generales
 * **Tercera Fase:** Sistema funcionando
 
-## Pautas para la aprobación de las entregas
-
-1.	Todas las entregas deberán tener una carátula indicando nombre de integrantes, fecha y número de entrega.
-2.	Las entregas deben subirse al grupo creado en la plataforma webcampus.
-3.	Incorporar entregas anteriores con correcciones si corresponde
-4.	Respetar la fecha de entrega indicada por la cátedra.
-5.	**Se considera desaprobada la entrega que no cumple alguna de las consignas anteriores**
-
-## Pautas para la Aprobación del Trabajo Práctico Cuatrimestral
-
-1.	Cumplir con todas las entregas definidas por la cátedra en la fecha establecida.
-2.	Aprobar todas las entregas definidas por la cátedra.
-3.	Respetar las consignas solicitadas y el orden definido.
 
 ## Cronograma de entregas y entregables
 
